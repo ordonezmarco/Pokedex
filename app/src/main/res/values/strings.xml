@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="texto">Pokemon</string>
+    <string name="description">Bulbasaur es un Pokémon de tipo planta/veneno introducido en la primera generación.\n\n Es uno de los Pokémon iniciales que pueden elegir los entrenadores que empiezan su aventura en la región de Kanto, junto a Squirtle y Charmander, en las ediciones Pokémon Rojo, Pokémon Verde y Pokémon Azul y Pokémon Rojo Fuego y Pokémon Verde Hoja.\n\n Se destaca por ser el primer Pokémon de la Pokédex Nacional.</string>
+</resources>
